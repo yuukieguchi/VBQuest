@@ -1,0 +1,14 @@
+12
+100
+                                          CCCC                             LLLLLLLLLLLLLLLLLLLLLLLLL
+                                                                                                   L
+                                     BG A  S                                                       L
+                                     BBBBBBBBBB                 A                                  L
+                 CCC                          B   S    G       BB         L                        L
+                 CCC                             BBB   BB      BB        LL                        L
+                                                              BBB       LLL                        L
+      G CCC  CC   G                C C                   CC   BBB      LLLL     MM         MM      L
+     BBBCCCB      BBB   CC         C C                       BBBB     LLLLL           MM           L
+BBBBBBBB S BBBBB  BBB   G                G  BB     G   BB  BBBBBB    LLLLLL MM                 MM  L
+BBBBBBBBBBBBBBBB  BBB  BBBB  BBBB S  A BBB  BB  BBBB  BBB  BBBBBB   LLLLLLL          1             L
+FFFFFFFFFFFFFFFF  FFF  FFFF  FFFFFFFFFFFFF  FF  FFFF  FFF  FFFFFF  LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL

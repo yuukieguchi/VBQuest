@@ -1,0 +1,22 @@
+20
+100
+                                                                       LLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+                                                                                                   L
+                                       G                     G      G    L                         L
+                  CCC                BBBBB         BB  BB   BBBBB   BBBBBL                         L
+                  CCC        G                 X                         L        MM         MM    L
+                           BBBBBBB   G       BBBBB              G     GBALM              M         L
+                  J  BBBBBB      BBBBB                  CCCCCC  BBBBBBBBBL        2                L
+                  BBBB            BBBBBB                                 LLLLLLLLLLLLLLLLLLLLL     L
+                                          B S X     BBB            CCC   L                         L
+                                          BBBBBBBBBBBBBB           CCC   L                         L  
+                                                           BS  BB        LMM             MM      MML  
+                          A                               BBBBBBBBB      L         M        M      L   
+                   C      BG                                    BBB      L                         L
+            CCC           BBB          CCC                CC     BBBB    L    LLLLLLLLLLLLLLLLLLLLLL                                                                         
+            CCC    B         B         CCC                CC             L                         L                                                                          
+                                                                         L                         L
+      A    BS  B      G      G      G               G       B        BB  LMM                       L
+BBBBBBBB  BBBBBB   BBBB    BBBB   BBBB  X BB  BBB   BBB  BBBB  BBBB  BBBBL         M         M     L
+BBBBBBBB  BBBBBB  BBBBB  BBBBBB   BBBBBBBBBB  BBB   BBB  BBBB  BBBB  BBBBL                         L
+FFFFFFFF  FFFFFF  FFFFF  FFFFFF   FFFFFFFFFF  FFF   FFF  FFFF  FFFF  FFFFLLLLLLLLLLLLLLLLLLLLLLLLLLL                                                  

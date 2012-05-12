@@ -1,0 +1,20 @@
+18
+100
+BBBBBBZ BBBBBBZ BBBBBBBBBBBZ BBBLLLLLLLZ LLL  LLLZ LLLZ LLLLLLLLLLLLLLLLLLLZ LLLLLLLZ LLLLLLLLZ LLLL
+B   JB  BBBBB    BB     BB    B    LLL    LL  LL    L                 LLLLL  L     L  L      L  LLLL
+B BBBB                                                      E       E                              L
+B          D                        D          D         LLLLLLLLLLLLLLL                           L
+BB   B   BBBB   BBBB    BB    BB   BBB    BB  BBB  BBB  BBBB         BBL                           L
+B    B  BBBBBB  BZ B   BBBB  BBB  BBBBB  BBB  BBB  BBBBBB             BL                           L
+B   BB  BBBBBB  B  B   BBBB  BBB  BBBBB  BBB  BBB  BBBB           BBB BL                           L
+BB                                                           B    BBB BL                           L
+BB                                                          BBB   BBBABL                           L
+BBBBB     BB                 D    A B               BB   D        BBB BL         LL   LL           L
+BBBBBB  BBZ BB  BBBB   BBBB  BBB  BBBBB  BBB  BBB  BBBB  BB      BBBBJBL                           L
+        BB  BB  BBBB   BBBB  BBB  BBBBB  BBB  BBB  BBBB  BBBBB   BBBB BL      MM         MM        L
+                                                                BBBBB BL            MM             L                                                                                                                                                                                                      
+                                                                BBBBB BL   MM                  M   L
+                                   E                      E   A       BL                           L
+BBBBBB  BB  BB ABB  BBB  BB  BBB  BBBBB  BBB  BBB  BBBB  BBBBBBBBBBBBBBL               4           L
+BBBBBB  BB  BBBBBB  BBB  BB  BBBBBBBBBB  BBB  BBB  BBBB  BBBBBBBBBBBBBBLLLL  LLLLLLL  LLLLLLLL  LLLL
+FFFFFF  FF  FFFFFF  FFF  FF  FFFFFFFFFF  FFF  FFF  FFFF  FFFFFFFFFFFFFFLLLL  LLLLLLL  LLLLLLLL  LLLL

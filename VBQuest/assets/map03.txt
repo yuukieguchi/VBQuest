@@ -1,0 +1,20 @@
+18
+100
+         NNNNNNNNNNNNNNNNNNNNNNN                                           LLLLLLLLLLLLLLLLLLLLLLLLL
+         NNN                   NNNNNN                     CC CCC                                   L
+         NNN      NNNN     CCC N                          CC CCC                                   L
+         NNN      NNNN     CCC NT            CC         E   X                                      L                  
+        NNNN    NNNNNN     T   N      CC     CC       NNNNNNNNNNNN                                 L
+     NNNN         NNNN    NNNNNNT     CC             N                                             L
+   Å@         E  NN  N   NNN   N            NNN    NNNT                        L            MM    ML
+           NNNN  NCCCN   E     N      NN   NNN                                LL                   L
+         NNNNNN     ANNNNNN    N      NN   N            NEA JN    CCC        LLL       MM          L
+              NN S NNN        NN    NNNN          CCC  NNNNNNNN   CCC       LLLL              MM   L
+   NNNT E     NNNNNNNN      NNNA      NN    E     CCC                      LLLLLMM         3       L
+    NNNNNNN   NNJ       G NNNNNNNN    NN    NNN   E              G        LLLLLL     M     MM      L
+              NNNNN    NNNN     CC    NNNN  NNN   NNNT           NN      LLLLLLL   M               L
+        E     NNCCC T               NNNNNN  NNN   NNN     E      NN     LLLLLLLL       MM    MM    L
+    NNNNNNNNNNNNCCC                 NNNNNN  NNN   NNN   NNNNN   NNNN    LLLLLLLL                   L
+    NNNNNNNNNNNNNNNNNN       G    NNNNNNNN  NNN   NNN  NNNNNN  NNNNNN   LLLLLLLL    M              L
+NNNNNNNNNNNNNNNNNNNNNNNNN  NNNNN  NNNNNNNN  NNN   NNN  NNNNNN  NNNNNN   LLLLLLLLMM    M  MM     MM L
+FFFFFFFFFFFFFFFFFFFFFFFFF  FFFFF  FFFFFFFF  FFF   FFF  FFFFFF  FFFFFF   LLLLLLLL                   L
